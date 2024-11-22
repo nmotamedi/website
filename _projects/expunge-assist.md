@@ -55,13 +55,6 @@ leadership:
       slack: https://hackforla.slack.com/team/U025XR6MY6S
       github: https://github.com/SamHyler
     picture: https://avatars.githubusercontent.com/SamHyler
-  - name: Emma Thrash
-    github-handle: emmathrash
-    role:  UX Content, Team Co-lead
-    links:
-      slack: https://hackforla.slack.com/team/U05JUM3881J
-      github: https://github.com/emmathrash
-    picture: https://avatars.githubusercontent.com/emmathrash
   - name: Sylvia Nam
     github-handle: sylvia-nam
     role: UX Research, Team Lead
@@ -76,6 +69,13 @@ leadership:
       slack: https://hackforla.slack.com/team/U07LGA7RZ0W
       github: https://github.com/raeraeicky
     picture: https://avatars.githubusercontent.com/raeraeicky
+  - name: Rick Peng
+    github-handle: rcpeng34
+    role: Product Manager, Development
+    links:
+      slack: https://hackforla.slack.com/team/U07QU3C45MY
+      github: https://github.com/rcpeng34
+    picture: https://avatars.githubusercontent.com/rcpeng34
 links:
     - name: Overview
       url: '../assets/pdfs/Expunge-Assist-One-Sheet.pdf'
